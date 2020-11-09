@@ -1,2 +1,2 @@
 # websocket-chat
-Simple chat cleint to learn websocket.
+Simple chat client to learn websocket.
