@@ -1,0 +1,22 @@
+{
+  "name": "websocket-chat",
+  "version": "1.0.0",
+  "description": "Simple chat cleint to learn websocket.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Keartland/websocket-chat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Keartland/websocket-chat/issues"
+  },
+  "homepage": "https://github.com/Keartland/websocket-chat#readme",
+  "dependencies": {
+    "ws": "^7.4.0"
+  }
+}
